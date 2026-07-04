@@ -1,0 +1,92 @@
+{
+  "apps": [
+    {
+      "name": "VLC Media Player",
+      "category": "Media",
+      "description": "Multimedia player for various formats",
+      "link": "https://www.videolan.org/vlc/",
+      "versions": [
+        "3.0.16",
+        "3.0.15",
+        "3.0.14"
+      ]
+    },
+    {
+      "name": "7-Zip",
+      "category": "Utilities",
+      "description": "File archiver with high compression ratio",
+      "link": "https://www.7-zip.org/",
+      "versions": [
+        "23.01",
+        "22.01",
+        "21.07"
+      ]
+    },
+    {
+      "name": "Notepad++",
+      "category": "Development",
+      "description": "Advanced text editor for coding",
+      "link": "https://notepad-plus-plus.org/",
+      "versions": [
+        "8.5.4",
+        "8.5.3",
+        "8.5.2"
+      ]
+    },
+    {
+      "name": "Blender",
+      "category": "Graphics",
+      "description": "3D modeling and animation software",
+      "link": "https://www.blender.org/",
+      "versions": [
+        "3.6.1",
+        "3.6.0",
+        "3.5.1"
+      ]
+    },
+    {
+      "name": "OBS Studio",
+      "category": "Media",
+      "description": "Open source streaming and recording software",
+      "link": "https://obsproject.com/",
+      "versions": [
+        "30.0.2",
+        "30.0.1",
+        "29.1.3"
+      ]
+    },
+    {
+      "name": "Audacity",
+      "category": "Audio",
+      "description": "Audio editing software",
+      "link": "https://www.audacityteam.org/",
+      "versions": [
+        "3.4.1",
+        "3.4.0",
+        "3.3.3"
+      ]
+    },
+    {
+      "name": "GIMP",
+      "category": "Graphics",
+      "description": "Image editor for photo retouching and manipulation",
+      "link": "https://www.gimp.org/",
+      "versions": [
+        "2.10.36",
+        "2.10.34",
+        "2.10.32"
+      ]
+    },
+    {
+      "name": "Python",
+      "category": "Development",
+      "description": "Python programming language",
+      "link": "https://www.python.org/",
+      "versions": [
+        "3.12.0",
+        "3.11.5",
+        "3.10.13"
+      ]
+    }
+  ]
+}
